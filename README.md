@@ -10,6 +10,7 @@ datos/
   datos_crudos.csv     · versión "sucia" para la lección de limpieza (Módulo 2)
   datos_proyecto.csv   · dataset del proyecto final (90 casos)
 diccionario-variables.md · qué significa cada variable
+arbol-decision.pdf       · chuleta visual: ¿qué prueba estadística uso?
 notebooks/
   analisis_python.ipynb · pista opcional en Python (pandas + pingouin)
 generadores/             · scripts que generan los datos (reproducibilidad)
