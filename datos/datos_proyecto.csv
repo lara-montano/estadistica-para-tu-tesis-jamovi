@@ -1,0 +1,91 @@
+id,programa,sexo,edad,bienestar_pre,bienestar_post,horas_ejercicio,adherencia,recomienda
+1,Control,Hombre,18,47,48,2.3,4,No
+2,Control,Mujer,32,43,52,2.1,4,No
+3,Control,Hombre,40,41,68,8.1,4,Sí
+4,Control,Mujer,32,56,58,4.2,3,No
+5,Control,Hombre,35,57,61,2.4,4,No
+6,Control,Mujer,27,40,51,4.0,3,No
+7,Control,Mujer,50,54,57,3.7,3,No
+8,Control,Hombre,42,56,52,2.5,4,No
+9,Control,Mujer,35,55,45,4.8,5,No
+10,Control,Hombre,39,68,62,4.9,4,No
+11,Control,Hombre,25,77,69,4.0,3,Sí
+12,Control,Hombre,39,57,54,3.1,2,No
+13,Control,Hombre,35,50,51,3.5,3,No
+14,Control,Hombre,38,73,78,3.5,3,Sí
+15,Control,Hombre,23,67,67,3.6,3,Sí
+16,Control,Hombre,35,56,58,2.7,3,No
+17,Control,Hombre,30,51,39,2.8,3,No
+18,Control,Hombre,41,37,50,2.6,4,No
+19,Control,Mujer,38,48,62,4.9,5,No
+20,Control,Mujer,33,65,62,2.6,3,No
+21,Control,Hombre,41,53,60,3.7,3,No
+22,Control,Hombre,25,62,68,6.1,4,Sí
+23,Control,Mujer,42,44,53,3.4,5,No
+24,Control,Hombre,36,52,63,4.2,4,No
+25,Control,Mujer,40,62,61,7.3,2,No
+26,Control,Mujer,25,57,63,4.3,5,No
+27,Control,Mujer,37,55,55,2.9,3,No
+28,Control,Mujer,28,66,52,4.9,3,No
+29,Control,Mujer,31,38,46,5.2,3,No
+30,Control,Mujer,19,40,48,5.3,4,No
+31,Programa A,Mujer,27,64,55,3.5,3,No
+32,Programa A,Mujer,18,54,53,2.5,3,No
+33,Programa A,Hombre,37,51,56,4.0,3,No
+34,Programa A,Hombre,30,51,49,2.3,2,No
+35,Programa A,Hombre,42,56,70,3.6,3,Sí
+36,Programa A,Mujer,50,35,64,5.1,3,No
+37,Programa A,Hombre,22,63,66,6.7,2,Sí
+38,Programa A,Hombre,42,63,62,5.3,5,No
+39,Programa A,Mujer,41,53,64,4.8,4,No
+40,Programa A,Hombre,40,47,68,2.8,3,Sí
+41,Programa A,Mujer,32,56,80,7.0,4,Sí
+42,Programa A,Mujer,38,49,67,6.5,4,Sí
+43,Programa A,Hombre,50,58,74,4.1,4,Sí
+44,Programa A,Hombre,38,45,43,2.4,4,No
+45,Programa A,Mujer,38,66,61,4.1,4,No
+46,Programa A,Hombre,37,54,59,5.4,3,No
+47,Programa A,Mujer,35,45,70,4.8,1,Sí
+48,Programa A,Mujer,45,63,60,5.2,2,No
+49,Programa A,Hombre,20,46,51,5.0,1,No
+50,Programa A,Hombre,38,52,49,1.3,2,No
+51,Programa A,Hombre,53,39,60,5.8,3,No
+52,Programa A,Mujer,28,61,69,2.9,4,Sí
+53,Programa A,Mujer,36,44,74,6.7,4,Sí
+54,Programa A,Hombre,41,46,67,6.3,4,Sí
+55,Programa A,Mujer,32,36,35,2.7,1,No
+56,Programa A,Hombre,36,57,77,5.8,3,Sí
+57,Programa A,Mujer,20,52,52,2.8,3,No
+58,Programa A,Mujer,45,60,72,6.8,5,Sí
+59,Programa A,Mujer,38,67,82,2.0,3,Sí
+60,Programa A,Mujer,39,40,55,5.6,2,No
+61,Programa B,Mujer,44,60,73,0.8,5,Sí
+62,Programa B,Hombre,32,62,64,5.1,4,No
+63,Programa B,Hombre,33,61,74,1.5,2,Sí
+64,Programa B,Hombre,45,57,68,5.0,3,Sí
+65,Programa B,Hombre,32,52,63,3.9,3,No
+66,Programa B,Hombre,35,44,68,3.7,3,Sí
+67,Programa B,Mujer,38,61,57,2.5,2,No
+68,Programa B,Mujer,32,60,60,3.1,3,No
+69,Programa B,Mujer,32,63,88,4.9,3,Sí
+70,Programa B,Hombre,35,56,77,6.4,3,Sí
+71,Programa B,Mujer,23,63,76,5.1,4,Sí
+72,Programa B,Hombre,34,46,60,1.0,4,No
+73,Programa B,Mujer,35,43,66,3.6,3,Sí
+74,Programa B,Hombre,37,44,62,3.4,3,No
+75,Programa B,Hombre,39,73,87,7.4,3,Sí
+76,Programa B,Mujer,37,38,68,4.6,3,Sí
+77,Programa B,Mujer,25,61,80,6.3,4,Sí
+78,Programa B,Hombre,31,54,71,2.5,4,Sí
+79,Programa B,Mujer,52,57,76,4.7,2,Sí
+80,Programa B,Hombre,26,45,64,3.0,5,No
+81,Programa B,Hombre,46,46,55,4.5,2,No
+82,Programa B,Mujer,45,49,57,1.6,4,No
+83,Programa B,Mujer,42,59,67,3.8,4,Sí
+84,Programa B,Mujer,44,58,73,7.6,3,Sí
+85,Programa B,Mujer,26,50,56,0,5,No
+86,Programa B,Mujer,25,57,63,4.0,2,No
+87,Programa B,Hombre,33,57,76,4.5,4,Sí
+88,Programa B,Mujer,39,44,64,3.4,5,No
+89,Programa B,Mujer,26,41,67,5.8,4,Sí
+90,Programa B,Mujer,33,61,82,5.4,4,Sí
